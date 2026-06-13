@@ -115,10 +115,10 @@ Medical image models may produce plausible but incorrect explanations. Users sho
 If you find our work helpful for your research, please cite:
 
 ```bibtex
-@article{zhang2026seer,
-      title     = {Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation},
-      author    = {Zhang, Tongrui and Wang, Chenhui and Li, Yongming and Chen, Zhihao and Zhan, Xufeng and Shan, Hongming},
-      journal   = {arXiv preprint arXiv:2603.08215},
-      year      = {2026}
+@InProceedings{zhang2026seer,
+        author = { Zhang, Tongrui and Wang, Chenhui and Li, Yongming and Chen, Zhihao and Zhan, Xufeng and Shan, Hongming},
+        title = { Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation },
+        booktitle = { Medical Image Computingand Computer Assisted Intervention },
+        year = {2026}
 }
 ```
