@@ -116,9 +116,9 @@ If you find our work helpful for your research, please cite:
 
 ```bibtex
 @InProceedings{zhang2026seer,
-        author = { Zhang, Tongrui and Wang, Chenhui and Li, Yongming and Chen, Zhihao and Zhan, Xufeng and Shan, Hongming},
-        title = { Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation },
-        booktitle = { Medical Image Computingand Computer Assisted Intervention },
-        year = {2026}
+      author    = { Zhang, Tongrui and Wang, Chenhui and Li, Yongming and Chen, Zhihao and Zhan, Xufeng and Shan, Hongming},
+      title     = { Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation },
+      booktitle = { Medical Image Computingand Computer Assisted Intervention },
+      year      = { 2026 }
 }
 ```
